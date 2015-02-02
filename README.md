@@ -15,11 +15,11 @@ out!
 
 ### Jig for milling the inside of a drum shells
 
-https://raw.githubusercontent.com/Jannis/instruments-3d/master/drums/tools/jig-for-milling-drum-shell-inside.png
+![](https://raw.githubusercontent.com/Jannis/instruments-3d/master/drums/tools/jig-for-milling-drum-shell-inside.png)
 
 ### Jig for milling the outside of drum shells
 
-https://raw.githubusercontent.com/Jannis/instruments-3d/master/drums/tools/jig-for-milling-drum-shell-outside.png
+![](https://raw.githubusercontent.com/Jannis/instruments-3d/master/drums/tools/jig-for-milling-drum-shell-outside.png)
 
 [Murray Drums]: https://www.facebook.com/MurrayDrums
 [Murray Drums on YouTube]: https://www.youtube.com/channel/UCJMN75AoeAre-aEZ5mGCXQQ
